@@ -3,7 +3,7 @@
 
 ## Supported OS
  - MacOS Mojave [✔️] Completely tested.
- - MacOS Catalina [⚠️]  Not tested but probably works
+ - MacOS Catalina [✔️] Completely tested.
  - MacOS Big Sur [❌] Does not work
 
 ## Supported Bot Loaders
