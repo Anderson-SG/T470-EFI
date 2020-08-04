@@ -1,14 +1,14 @@
 # EFI folder for booting Thinkpad T470 i5-7300u
 
 **working**
-  - boot
-  - intel hd620
-  - audio
+  - Boot
+  - Intel HD620
+  - Audio (Local and External)
   - NVMe
-  - brightness control (but too bright for me)
-  - wake from sleep
-  - shutdown 
-  - fan and temp
+  - Brightness control (but too bright for me)
+  - Wake from sleep
+  - Shutdown 
+  - Fan and Temp
 
 
   
