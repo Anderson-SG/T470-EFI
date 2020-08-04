@@ -35,6 +35,10 @@
  - Boot Args = (Add a "-v" on end of line) this will enable verbose/debug mode.
  - Graphics Injector > PlataformId = 0x12345678
 
+## DiskUtils Guide
+ - Click on Erase Disk and select APFS on format.
+ - On name you can chose a custom one. 
+
 ## Credit
  - https://github.com/RehabMan
  - https://www.tonymacx86.com/,
