@@ -1,4 +1,5 @@
 ## EFI folder for booting Thinkpad T470 i5-7300u
+![obligatory neofetch](https://i.ebayimg.com/images/g/Cu8AAOSwjWRe5AXe/s-l1600.jpg)
 
 ## Supported OS
  - MacOS Mojave [✔️] Completely tested.
