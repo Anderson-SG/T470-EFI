@@ -27,6 +27,9 @@
  - Virtualization = Disabled
  - Anti Theft = Disabled
  - Secure Boot = Disabled
+ - UEFI/LegacyBoot = Both
+ - UEFI/LegacyBoot Priority = UEFI First
+ - CSM Support = YES
 
 ## Credit
  - https://github.com/RehabMan
