@@ -39,6 +39,10 @@
  - Click on Erase Disk and select APFS on format.
  - On name you can chose a custom one. 
 
+## Complete Install Guide Video
+ - https://www.youtube.com/watch?v=XcOFR3y1m2s&t=608s
+ - This video is not mine but it shows a complete installation on the thinkpad model.
+
 ## Credit
  - https://github.com/RehabMan
  - https://www.tonymacx86.com/,
