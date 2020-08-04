@@ -1,6 +1,6 @@
-# EFI folder for booting Thinkpad T470 i5-7300u
+## EFI folder for booting Thinkpad T470 i5-7300u
 
-**working**
+## Working
   - Boot
   - Intel HD620
   - Audio (Local and External)
@@ -12,7 +12,7 @@
 
 
   
-**credit**
+## Credit
 
   Thank you to https://github.com/RehabMan :)
   
