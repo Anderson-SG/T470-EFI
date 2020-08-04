@@ -32,7 +32,7 @@
  - CSM Support = YES
 
 ## Clover Boot Options for First Time install
- - Boot Args = (Add a "-v" on end of line)
+ - Boot Args = (Add a "-v" on end of line) this will enable verbose/debug mode.
  - Graphics Injector > PlataformId = 0x12345678
 
 ## Credit
