@@ -21,7 +21,13 @@
  - Fan and Temp [✔️] 
  - Wifi [❌] You will need to change the wifi adapter for a supported one or use a usb wifi adapter
 
-  
+## Bios Settings
+ - Security Chip = Disabled
+ - Memory Protection -> Execution Prevention = Enabled
+ - Virtualization = Disabled
+ - Anti Theft = Disabled
+ - Secure Boot = Disabled
+
 ## Credit
  - https://github.com/RehabMan
  - https://www.tonymacx86.com/,
