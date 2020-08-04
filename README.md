@@ -31,6 +31,10 @@
  - UEFI/LegacyBoot Priority = UEFI First
  - CSM Support = YES
 
+## Clover Boot Options for First Time install
+ - Boot Args = (Add a "-v" on end of line)
+ - Graphics Injector > PlataformId = 0x12345678
+
 ## Credit
  - https://github.com/RehabMan
  - https://www.tonymacx86.com/,
