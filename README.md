@@ -41,6 +41,10 @@
 - Boot Args = (Add a "-v" on end of line) this will enable verbose/debug mode.
 - Graphics Injector > PlataformId = 0x12345678
 
+## OpenCore Boot Options
+
+- No chages needed
+
 ## DiskUtils Guide
 
 - Click on Erase Disk and select APFS on format.
