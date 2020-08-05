@@ -11,7 +11,7 @@
 ## Supported Bot Loaders
 
 - Clover [✔️]
-- OpenCore [✔️]
+- OpenCore [✔️] Recommended
 
 ## Working
 
